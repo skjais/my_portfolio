@@ -1,0 +1,6 @@
+
+.leftbar {
+    height: 94vh;
+    overflow-y: scroll;
+    padding-left: 10px;
+  }

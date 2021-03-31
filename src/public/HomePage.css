@@ -1,0 +1,15 @@
+.main_page{
+    background-color:gray;
+    height: 94vh;
+}
+.left{
+    /* background-color: rgb(206, 247, 250); */
+    height: 100%;
+    /* border-radius: 20px; */
+}
+.right{
+    background-color:white;
+    height: 100%;
+    /* border-radius: 20px; */
+
+}
